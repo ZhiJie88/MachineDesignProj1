@@ -1,0 +1,17 @@
+C:\Users\Chris\Desktop\ME 533 - Proj 1\LBracket\bin\Debug\net6.0-windows\LBracket.exe
+C:\Users\Chris\Desktop\ME 533 - Proj 1\LBracket\bin\Debug\net6.0-windows\LBracket.deps.json
+C:\Users\Chris\Desktop\ME 533 - Proj 1\LBracket\bin\Debug\net6.0-windows\LBracket.runtimeconfig.json
+C:\Users\Chris\Desktop\ME 533 - Proj 1\LBracket\bin\Debug\net6.0-windows\LBracket.dll
+C:\Users\Chris\Desktop\ME 533 - Proj 1\LBracket\bin\Debug\net6.0-windows\LBracket.pdb
+C:\Users\Chris\Desktop\ME 533 - Proj 1\LBracket\obj\Debug\net6.0-windows\LBracket.csproj.AssemblyReference.cache
+C:\Users\Chris\Desktop\ME 533 - Proj 1\LBracket\obj\Debug\net6.0-windows\LBracket.csproj.GenerateResource.cache
+C:\Users\Chris\Desktop\ME 533 - Proj 1\LBracket\obj\Debug\net6.0-windows\LBracket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris\Desktop\ME 533 - Proj 1\LBracket\obj\Debug\net6.0-windows\LBracket.AssemblyInfoInputs.cache
+C:\Users\Chris\Desktop\ME 533 - Proj 1\LBracket\obj\Debug\net6.0-windows\LBracket.AssemblyInfo.cs
+C:\Users\Chris\Desktop\ME 533 - Proj 1\LBracket\obj\Debug\net6.0-windows\LBracket.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Desktop\ME 533 - Proj 1\LBracket\obj\Debug\net6.0-windows\LBracket.dll
+C:\Users\Chris\Desktop\ME 533 - Proj 1\LBracket\obj\Debug\net6.0-windows\refint\LBracket.dll
+C:\Users\Chris\Desktop\ME 533 - Proj 1\LBracket\obj\Debug\net6.0-windows\LBracket.pdb
+C:\Users\Chris\Desktop\ME 533 - Proj 1\LBracket\obj\Debug\net6.0-windows\LBracket.genruntimeconfig.cache
+C:\Users\Chris\Desktop\ME 533 - Proj 1\LBracket\obj\Debug\net6.0-windows\ref\LBracket.dll
+C:\Users\Chris\Desktop\ME 533 - Proj 1\LBracket\obj\Debug\net6.0-windows\LBracket.Min_t.resources
